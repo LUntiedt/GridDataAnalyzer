@@ -23,5 +23,5 @@ To monitor stability, the script calculates the moving RMS voltage over a 20ms w
 * It automatically detects and flags transient events—like a voltage dip dropping below 90% of the nominal voltage (based on EN 50160).
 
 ## 🚀 How to Run It
-1. Run `01_generate_data.m` first. This builds the `grid_data.csv` file with the synthetic, noisy 50Hz waveform.
-2. Run `02_grid_analyzer.m` to filter the data, run the FFT, and generate the dashboard.
+1. Run `A_generate_data.m` first. This builds the `grid_data.csv` file with the synthetic, noisy 50Hz waveform.
+2. Run `B_grid_analyzer.m` to filter the data, run the FFT, and generate the dashboard.
