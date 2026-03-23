@@ -1,6 +1,6 @@
 # Grid Data Analyzer: Power Quality & Event Detection
 
-![Dashboard Screenshot](link-zum-bild-deines-dashboards.png) 
+![Dashboard Screenshot](dashboard.png) 
 *(Note: Replace with your actual image link)*
 
 ## 📌 About This Project
