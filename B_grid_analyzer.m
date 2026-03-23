@@ -1,6 +1,6 @@
 % =========================================================================
 % Projekt: Grid Data Analyzer (Power Quality & Event Detection)
-% Skript:  02_grid_analyzer.m
+% Skript:  B_grid_analyzer.m
 % Autor:   Laurenz Untiedt
 % Zweck:   Pre-Processing und Filterung von hochaufgelösten Netzdaten.
 % =========================================================================
