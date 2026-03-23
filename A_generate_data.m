@@ -1,5 +1,5 @@
 % =========================================================================
-% Projekt: Grid Data Analyzer (Amprion Showcase)
+% Projekt: Grid Data Analyzer
 % Skript:  01_generate_data.m
 % Autor:   Laurenz Untiedt
 % Zweck:   Erzeugung synthetischer, hochaufgelöster Netzdaten (10 kHz)
