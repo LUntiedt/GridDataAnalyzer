@@ -1,6 +1,6 @@
 % =========================================================================
 % Projekt: Grid Data Analyzer
-% Skript:  01_generate_data.m
+% Skript:  A_generate_data.m
 % Autor:   Laurenz Untiedt
 % Zweck:   Erzeugung synthetischer, hochaufgelöster Netzdaten (10 kHz)
 %          inkl. Harmonischer, Spannungsabfall und IoT-Sensor-Rauschen.
