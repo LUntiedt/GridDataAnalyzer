@@ -1,7 +1,7 @@
 # Grid Data Analyzer: Power Quality & Event Detection
 
 ![Dashboard Screenshot](dashboard.png) 
-*(Note: Replace with your actual image link)*
+
 
 ## 📌 About This Project
 Hi! I'm an Electrical Engineering student with a background in automation and IoT hardware development. I built this project to bridge my practical experience with embedded sensors and my interest in high-voltage grid stability.
